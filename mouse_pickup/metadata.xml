@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <name>I can touch forever!</name>
+  <directory>mouse_pickup</directory>
+  <id>3819617165</id>
+  <description>Right-click reachable pickups after clearing a room. Native pickup rules, no REPENTOGON required.</description>
+  <version>0.1.9</version>
+  <tag id="Lua"/>
+</metadata>
